@@ -1,2 +1,2 @@
-# learn_bash
-Repository for learning linux bash script
+# learn_shell
+Repository for learning linux shell script
