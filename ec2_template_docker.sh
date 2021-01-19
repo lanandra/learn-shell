@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# set user data for ec2 template with docker container and docker compose installed
+
 sudo apt-get update
 yes | sudo apt-get install \
     apt-transport-https \
