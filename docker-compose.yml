@@ -1,8 +1,0 @@
-# define docker service
-# please change images and other parameters that expected to run
-# refer to https://docs.docker.com/compose/ for further documentation
-
-version: "3.8"
-services:
-  hello-world:
-    image: hello-world:latest
