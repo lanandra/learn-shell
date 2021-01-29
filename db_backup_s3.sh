@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # backup your local backup db file to aws s3 using aws cli
 # copy to s3 with acl set to bucket owner full control, sse encryption, storage class using onezone_ia and using spesific profile
 # get date and print backup date at output
