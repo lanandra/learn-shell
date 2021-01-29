@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # backup mysql db and mongo db that running on docker container
 # get date and print date on output
 
