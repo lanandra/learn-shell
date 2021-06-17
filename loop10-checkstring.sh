@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Ask for input number
+# Ask for input number
 echo "Berapa banyak angka yang akan ditulis? Masukkan angka (1-10): "
 read max_number
 
@@ -25,7 +25,7 @@ else
 fi
 
 # Check company name string, wheter it match or not
-if [ "$company_name" = "Compnet" ]
+if [ "$company_name" = "Company" ]
 then
         echo "Nama perusahaan kita"
 else
